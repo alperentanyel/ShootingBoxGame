@@ -18,10 +18,6 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-import a.Game.AirCraft;
-import a.Game.Enemy;
-import a.Game.Friend;
-
 public class Game {
 	ArrayList<MyThread> list =new ArrayList<>(); 
 	// 0 aircraft
